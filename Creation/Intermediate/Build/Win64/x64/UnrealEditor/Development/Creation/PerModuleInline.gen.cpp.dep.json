@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\users\\fredv\\unrealengine\\creation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\creation\\permoduleinline.gen.cpp",
+        "Source": "d:\\users\\vezf07\\github\\creation\\creation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\creation\\permoduleinline.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\users\\fredv\\unrealengine\\creation\\intermediate\\build\\win64\\x64\\creationeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\users\\vezf07\\github\\creation\\creation\\intermediate\\build\\win64\\x64\\creationeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\users\\fredv\\unrealengine\\creation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\creation\\definitions.creation.h",
-            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+            "d:\\users\\vezf07\\github\\creation\\creation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\creation\\definitions.creation.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

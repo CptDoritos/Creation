@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Users\\fredv\\UnrealEngine\\Creation\\Source\\Creation\\Creation.Build.cs",
-		"D:\\Users\\fredv\\UnrealEngine\\Creation\\Source\\Creation.Target.cs",
-		"D:\\Users\\fredv\\UnrealEngine\\Creation\\Source\\CreationEditor.Target.cs"
+		"D:\\Users\\vezf07\\Github\\Creation\\Creation\\Source\\Creation\\Creation.Build.cs",
+		"D:\\Users\\vezf07\\Github\\Creation\\Creation\\Source\\Creation.Target.cs",
+		"D:\\Users\\vezf07\\Github\\Creation\\Creation\\Source\\CreationEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

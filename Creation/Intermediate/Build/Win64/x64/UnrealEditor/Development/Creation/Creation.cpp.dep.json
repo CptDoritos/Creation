@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\users\\fredv\\unrealengine\\creation\\source\\creation\\creation.cpp",
+        "Source": "d:\\users\\vezf07\\github\\creation\\creation\\source\\creation\\creation.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\users\\fredv\\unrealengine\\creation\\intermediate\\build\\win64\\x64\\creationeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\users\\vezf07\\github\\creation\\creation\\intermediate\\build\\win64\\x64\\creationeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\users\\fredv\\unrealengine\\creation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\creation\\definitions.creation.h",
-            "d:\\users\\fredv\\unrealengine\\creation\\source\\creation\\creation.h"
+            "d:\\users\\vezf07\\github\\creation\\creation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\creation\\definitions.creation.h",
+            "d:\\users\\vezf07\\github\\creation\\creation\\source\\creation\\creation.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
